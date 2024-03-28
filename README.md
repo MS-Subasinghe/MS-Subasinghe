@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Minols subasinghe</h1>
 <h3 align="center">A passionate developer from Srilanka</h3>
 
+### My topic
+
+---
+
 - 🔭 I’m currently working on **PawsPetcare**
 
 - 🌱 I’m currently learning **Java, Mern-Stack**
