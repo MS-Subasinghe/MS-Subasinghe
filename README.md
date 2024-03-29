@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minol subasinghe</h1>
 <h3 align="center">A passionate developer from Srilanka</h3>
 
-### My topic
+### My topics
 
 ---
 
