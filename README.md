@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minols subasinghe</h1>
+<h1 align="center">Hi 👋, I'm Minol subasinghe</h1>
 <h3 align="center">A passionate developer from Srilanka</h3>
 
 - 🔭 I’m currently working on **PawsPetcare**
