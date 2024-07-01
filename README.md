@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PawsPetcare**
 
-- 🌱 I’m currently learning **Java, Mern-Stack**
+- 🌱 I’m currently learning **Python, Mern-Stack**
 
 - 📫 How to reach me **minolsubasinghe14@gmail.com**
 
